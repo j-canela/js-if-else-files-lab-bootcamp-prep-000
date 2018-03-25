@@ -1,7 +1,7 @@
-var name = "joe"
-var height = "74"
+var name = "susan"
+var height = "70"
 
-if (name === "Joe"){
+if (name === "susan"){
   console.log("the name is correct")
 } else{
   console.log("exprected name to be joe")
